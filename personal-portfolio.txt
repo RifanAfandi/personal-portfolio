@@ -2,5 +2,5 @@
 2. deskripsi singkat identitas
 3. foto profil
 4. beberapa proyek yang telah dikerjakan
-5. tim pekerja
+5. resume
 6. footer
